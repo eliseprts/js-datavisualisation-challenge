@@ -29,7 +29,7 @@ for (let i = 1; i < tr.length; i++) {
     // Ignore first cell of row (name of the country)
     for (let j = 1; j <= 11; j++) {
         let number = tr[i].getElementsByTagName('td')[j].innerText
-        numbers.push(number)
+        numbers.push(parseFloat(number))
         // parseFloat parses a value as a string and returns the first number
     }
 
