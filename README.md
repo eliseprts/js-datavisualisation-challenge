@@ -5,8 +5,7 @@ _Repo created as part of the [BeCode web development training](https://becode.or
 - Mode : group of three people
 - Type : consolidation challenge
 - Duration : 3 days
-
-* GitHub page :
+- [GitHub page](https://eliseprts.github.io/js-datavisualisation-challenge/)
 
 ## Group Members
 
