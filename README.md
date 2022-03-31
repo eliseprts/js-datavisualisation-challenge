@@ -28,3 +28,8 @@ Make an article more rich, more interactive by adding interactive data visualisa
 
 - Not edit the html file
 - Use a JavaScript library ([chart.js](https://www.chartjs.org/) or [Dimpl](http://dimplejs.org/))
+
+<img width="840" alt="Capture d’écran 2022-03-31 à 12 11 03" src="https://user-images.githubusercontent.com/94377998/161031878-915ebba8-2148-4306-894c-0a6933861f21.png">
+
+<img width="848" alt="Capture d’écran 2022-03-31 à 12 11 12" src="https://user-images.githubusercontent.com/94377998/161031913-ce73e655-09ca-455c-9255-45927a1e6341.png">
+
