@@ -21,7 +21,9 @@ _Repo created as part of the [BeCode web development training](https://becode.or
 
 ## The Challenge
 
-Make an article more rich, more interactive by adding interactive data visualisation graphics using JavaScript. 1. **Inline data** : use JavaScript to traverse the DOM to insert right above each table a representation of its data in the form of an interactiv graph. 2. **Remote data, in real-time** : retrieve the data [here](https://canvasjs.com/services/data/datapoints.php) via Ajax, and use it to insert a graph that refreshes every second, juste below the main title (`h1`) of the article.
+Make an article more rich, more interactive by adding interactive data visualisation graphics using JavaScript. 
+1. **Inline data** : use JavaScript to traverse the DOM to insert right above each table a representation of its data in the form of an interactiv graph.
+2. **Remote data, in real-time** : retrieve the data [here](https://canvasjs.com/services/data/datapoints.php) via Ajax, and use it to insert a graph that refreshes every second, juste below the main title (`h1`) of the article.
 
 **Constraints**
 
